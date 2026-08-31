@@ -1,0 +1,13 @@
+{
+  "name": "iron-command",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vite --host 0.0.0.0",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1",
+    "vite": "^7.1.3"
+  }
+}
